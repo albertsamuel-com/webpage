@@ -878,7 +878,7 @@ body div.wrapper section.cl-b div.apply a:hover {
 .hero>.arrow>div {
     width: 100%;
     height: 60px;
-    background: url(../img/arrow.svg) no-repeat bottom;
+    /*background: url(../img/arrow.svg) no-repeat bottom;*/
     background-size: 40px 30px;
     margin-top: 30px;
     display: block;
